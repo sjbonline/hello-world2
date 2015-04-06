@@ -1,0 +1,1 @@
+Second times a charm working my way through the Git-it Workshopper.  I'm hoping this time to really understand how to use Git and Github.
